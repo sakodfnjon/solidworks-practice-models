@@ -49,6 +49,7 @@ Check out my hexapod robot project:
 
 Images of models can be found in the repository.
 <img width="1920" height="1080" alt="Screenshot 2025-07-22 221030" src="https://github.com/user-attachments/assets/9d0e7683-5460-4a7b-938f-bb3ce41f52f2" />
+<img width="1896" height="1078" alt="image" src="https://github.com/user-attachments/assets/8ea67427-6cce-4763-9ed4-5167e8436680" />
 
 ---
 
